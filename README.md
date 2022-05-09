@@ -4,4 +4,4 @@ Hey ! I'm a Software Engineering Student who's intersted in Backend Engineering.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![OliFady](https://github-readme-stats.vercel.app/api/pin/?username=Leetcode 75 Blind Questions in Java)](https://github.com/OliFady/LeetCode-75-Blind-Questions-in-Java)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Leetcode 75 Blind Questions in Java)](https://github.com/OliFady/LeetCode-75-Blind-Questions-in-Java)
