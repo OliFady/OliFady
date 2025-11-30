@@ -7,12 +7,8 @@ I build scalable systems, clean architectures, and developer-friendly tools.
 
 ---
 
-## 📊 GitHub Analytics
-
-### 📊 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/oli-fady?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/oli-fady?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-YourNumber-blue?style=for-the-badge)
+### 📈 Contribution Activity
+![Contribution graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oli-fady&theme=github)
 
 ---
 
