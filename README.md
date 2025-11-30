@@ -9,10 +9,10 @@ I build scalable systems, clean architectures, and developer-friendly tools.
 
 ## 📊 GitHub Analytics
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oli-fady&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oli-fady&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oli-fady&theme=tokyonight)
+### 📊 GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/oli-fady?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/oli-fady?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-YourNumber-blue?style=for-the-badge)
 
 ---
 
