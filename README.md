@@ -1,6 +1,13 @@
-Hey ! I'm a Software Engineering Student who's intersted in Backend Engineering. You can check out my Blog where i share my Learning Experiences here at (https://dailyollie.hashnode.dev/)
+👋 Hi, I'm Oli Fady
 
-[![Oliver Banoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliFady)](https://github.com/OliFady/github-readme-stats)
+Backend Engineer specializing in Elixir & Phoenix.
+I build scalable systems, clean architectures, and developer-friendly tools.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliFady)](https://github.com/OliFady/github-readme-stats)
+🛠️ Tech Stack
 
+Elixir, Phoenix, LiveView, Ash Framework
+Arch Linux, i3, Neovim
+
+🎮 Outside Work
+
+Gamer, Writer (The Dance of Fireflies).
